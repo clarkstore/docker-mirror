@@ -1,4 +1,4 @@
-name: gitea
+name: Clark
 
 on:
   workflow_dispatch:
